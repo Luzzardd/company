@@ -44,7 +44,7 @@ const Hero = () => {
    boxShadow="md"
    align="center"
  >
-   <Rating className=' initialRating={5} readonly fullSymbol="★" emptySymbol="☆" ' />
+   <Rating className=' initialRating={5} readonly fullSymbol="★" emptySymbol="☆"' />
    <Text>
      Sage is a great software engineer. He is very professional and
      knowledgeable.
@@ -71,7 +71,7 @@ const Hero = () => {
    boxShadow="md"
    align="center"
  >
-   <Rating className=' initialRating={5} readonly fullSymbol="★" emptySymbol="☆" ' />
+   <Rating className=' initialRating={5} readonly fullSymbol="★" emptySymbol="☆"' />
    <Text>
      Sage is a great software engineer. He is very professional and
      knowledgeable.
@@ -98,7 +98,7 @@ const Hero = () => {
    boxShadow="md"
    align="center"
  >
-   <Rating className=' initialRating={5} readonly fullSymbol="★" emptySymbol="☆" ' />
+   <Rating className=' initialRating={5} readonly fullSymbol="★" emptySymbol="☆"' />
    <Text>
      Sage is a great software engineer. He is very professional and
      knowledgeable.
