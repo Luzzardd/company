@@ -26,7 +26,7 @@ const Hero = () => {
             <Image 
                 className="mx-auto rounded-xl py-8 md:py-0 mt-10" 
                 src={logo}
-                alt="About Me" 
+                alt="About M" 
                 width={450} 
                 height={300} 
             />
