@@ -33,11 +33,11 @@ const Hero = () => {
         </div>
     </div>
 </div>
- <HStack className='spacing=4' justify="center"  py="6" px="4">
+ <HStack justify="center"  py="6" px="4">
  {/* First Card */}
  <Stack
    maxW="320px"
-   spacing="4"
+  
    p="6"
    bg="white"
    borderRadius="md"
@@ -49,7 +49,7 @@ const Hero = () => {
      Sage is a great software engineer. He is very professional and
      knowledgeable.
    </Text>
-   <HStack spacing="4">
+   <HStack>
      <Avatar
        name="Matthew Jones"
        src="https://randomuser.me/api/portraits/men/70.jpg"
@@ -64,7 +64,7 @@ const Hero = () => {
  {/* Second Card */}
  <Stack
    maxW="320px"
-   spacing="4"
+  
    p="6"
    bg="white"
    borderRadius="md"
@@ -76,7 +76,7 @@ const Hero = () => {
      Sage is a great software engineer. He is very professional and
      knowledgeable.
    </Text>
-   <HStack spacing="4">
+   <HStack>
      <Avatar
        name="Matthew Jones"
        src="https://randomuser.me/api/portraits/men/70.jpg"
@@ -91,7 +91,7 @@ const Hero = () => {
  {/* Third Card */}
  <Stack
    maxW="320px"
-   spacing="4"
+  
    p="6"
    bg="white"
    borderRadius="md"
@@ -103,7 +103,7 @@ const Hero = () => {
      Sage is a great software engineer. He is very professional and
      knowledgeable.
    </Text>
-   <HStack spacing="4">
+   <HStack>
      <Avatar
        name="Matthew Jones"
        src="https://randomuser.me/api/portraits/men/70.jpg"
